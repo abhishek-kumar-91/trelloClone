@@ -1,6 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Home page of Trello 2.0
+![Dashboard](../trello-appwrite-2.0/public/dashboard.png)
+
+
+Add Task 
+![Add task](../trello-appwrite-2.0/public/add.png)
+
 
 First, run the development server:
 

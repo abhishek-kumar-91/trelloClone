@@ -31,7 +31,7 @@ function Column({ id, tasks, index }: Props) {
 
     const handleAddTask = () =>{
 
-
+      setNewTaskType(id);
       openModal();
     }
 

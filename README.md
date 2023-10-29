@@ -2,11 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 Home page of Trello 2.0
-![Dashboard](../trello-appwrite-2.0/public/dashboard.png)
+![Dashboard](./public/dashboard.png)
 
 
 Add Task 
-![Add task](../trello-appwrite-2.0/public/add.png)
+![Alt Text](./public/add.png)
 
 
 First, run the development server:

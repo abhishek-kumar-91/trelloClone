@@ -13,6 +13,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+    "types": ["react", "react-dom", "react-beautiful-dnd"],
     "plugins": [
       {
         "name": "next"
